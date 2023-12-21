@@ -75,9 +75,8 @@
     <!-- /.content -->
   </div>
   <!-- /.content-wrapper -->
-
 <!-- footer -->
- <?php include_once('footer.php') ?>
+
   
   <!-- Control Sidebar -->
   <aside class="control-sidebar control-sidebar-dark">
